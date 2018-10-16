@@ -4,4 +4,10 @@
 		"index.js": "2132528e152db6a47f1d8be8d124cc300152fddfcd7e08867bff57c290cc04d1",
 		"module.json": "da6a1d66cb983b0bdcd60960e661f08d9e7c567997dd9859e37b2cfb61836e5a"
 	},
+	"defs": {
+		"C_USE_ITEM": "#back",
+		"C_WHISPER": "c_chat",
+		"S_INSTANT_MOVE": "#no save point",
+		"S_LOGIN": "cid"
+	}
 }
