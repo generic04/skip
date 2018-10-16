@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Skip"
+    },
+    "servers": ["https://raw.githubusercontent.com/generic04/skip/master/"]
+}
