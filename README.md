@@ -1,1 +1,1 @@
-# skip
+# Skip things, spamming might cause disconnects.
